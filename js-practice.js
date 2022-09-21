@@ -3,7 +3,7 @@
 //1. data types built-in methods, variables 
 
 //a. define a variable and give it a string value
-var name = "Gracelyn";
+var name = 'Gracelyn';
 
 //b. define a variable and give it a number value
 var x = 100;
